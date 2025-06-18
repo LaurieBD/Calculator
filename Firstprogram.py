@@ -14,7 +14,7 @@ def input(button_text):
         entry.delete(0, tk.END)
     else:
         entry.insert(tk.END, button_text)
-
+#make window
 window = tk.Tk()
 window.title("Calculator")
 window.geometry("300x400")
