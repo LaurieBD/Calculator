@@ -1,4 +1,5 @@
 import tkinter as tk
+#log function branch 
 
 def input(button_text):
     current = entry.get()
